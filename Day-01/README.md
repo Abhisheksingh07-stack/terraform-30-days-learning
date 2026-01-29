@@ -20,3 +20,8 @@ Today I started my Terraform learning journey.
 ## Key Takeaway
 Terraform allows infrastructure to be created, modified, and destroyed using code, making cloud environments consistent, repeatable, and automated.
 
+
+## Terraform Working Flow Diagram
+
+![Terraform Workflow](screenshots/terraform-working-flow.png)
+
